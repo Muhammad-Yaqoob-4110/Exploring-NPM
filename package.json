@@ -1,0 +1,25 @@
+{
+  "name": "exploring-npm",
+  "version": "1.0.0",
+  "description": "Exploring Node Package Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Yaqoob-4110/Exploring-NPM.git"
+  },
+  "keywords": [
+    "npm",
+    "Node",
+    "Package",
+    "Manager"
+  ],
+  "author": "Ali Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Yaqoob-4110/Exploring-NPM/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Yaqoob-4110/Exploring-NPM#readme"
+}
