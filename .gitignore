@@ -1,0 +1,6 @@
+/node_modules
+/gulpfile-setup/node_modules
+/babel-setup/node_modules
+/jest/node_modules
+/webpack-setup/node_modules
+```

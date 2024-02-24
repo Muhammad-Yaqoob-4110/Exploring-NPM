@@ -1,0 +1,18 @@
+{
+  "name": "babel-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2"
+  },
+  "scripts": {
+    "start-babel": "babel main.js --out-file main.dist.js"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
